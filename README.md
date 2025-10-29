@@ -5,3 +5,4 @@ Comprende y aplica álgebra lineal a Machine Learning. Descubre autovalores, aut
 |---|---------|
 | 1 | [Transformaciones lineales y descomposición de matrices](./Transformaciones%20lineales%20y%20descomposicion%20de%20matrices/) |
 | 2 | [Aplicaciones de SVD a una imagen](./Aplicacioness_de_SVD_a_una_imagen/) |
+| 3 | [Aplicando Álgebra Lineal: Análisis de Componentes Principales (PCA)](./Aplicando_Algebra_Lineal_Analisis_de_componentes_principales/) |
